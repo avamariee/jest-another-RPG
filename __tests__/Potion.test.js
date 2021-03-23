@@ -16,3 +16,4 @@ test('creates a random potion object', () => {
     expect(potion.value).toEqual(expect.any(Number));
 
 });
+
